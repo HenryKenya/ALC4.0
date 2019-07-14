@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ACL4.0 Challenge</string>
+    <string name="intro_text">Welcome to ALC 4.0</string>
+    <string name="profile_string">Profile</string>
+    <string name="about_alc_string">About ALC</string>
+    <string name="name_string">Henry \'Dru\' Onyango</string>
+    <string name="track_string">Associate Android Developer | Web Developer</string>
+    <string name="country_string">Kenya</string>
+    <string name="phone_number_string">+ 254(0). 727. 128. 841</string>
+    <string name="email_address_string">henry.onyango.jnr@gmail.com</string>
+    <string name="test_link_string">Text link if About ALC does not work</string>
+    <string name="slack_username">`@`Dru</string>
+</resources>
